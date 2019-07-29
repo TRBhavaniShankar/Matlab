@@ -1,4 +1,4 @@
-function linerBlockCode = BhavaniShankar_9871_A2_Prob2(noOfRuns)
+function linerBlockCode = ErrorCorrection_LinerBlockCode(noOfRuns)
 %Generator Matrix
 G = [1 1 0 1 0 0 0
 0 1 1 0 1 0 0
